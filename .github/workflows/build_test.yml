@@ -28,4 +28,4 @@ jobs:
     - name: Install program dependencies
       run: npm install
     - name: Run integration tests
-      run: npm run start
+      run: npm run test
